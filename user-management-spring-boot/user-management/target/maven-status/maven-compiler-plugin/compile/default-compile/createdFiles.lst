@@ -1,0 +1,8 @@
+com\user_manager_v1\rest_controllers\UserApiController.class
+com\user_manager_v1\models\User.class
+com\user_manager_v1\models\Login.class
+com\user_manager_v1\services\UserService.class
+com\user_manager_v1\repository\UserRepository.class
+com\user_manager_v1\UserManagementApplication.class
+com\user_manager_v1\rest_controllers\LoginApiController.class
+com\user_manager_v1\rest_controllers\RegisterApiController.class
